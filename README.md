@@ -24,7 +24,7 @@ Check out the live website: [GadgetHaven](https://gadget-heaven-website-a8.surge
 
 ## Requirement Document
 
-You can find the requirement document here: [Requirement Document](https://github.com/miftah1299/gadget-heaven/blob/main/Requirements.pdf)
+You can find the requirement document here: [Requirement Document](https://github.com/miftah-mj/gadget-heaven/blob/main/public/Requirements.pdf)
 
 ## React Fundamental Concepts Used
 
